@@ -1,0 +1,6 @@
+V17N16.ZIP contains sample code files mentioned in the PC Tech section of the September 22, 1998, issue of PC Magazine. It contains Changrez.frm and Changrez.vbp, mentioned in the Power Programming column entitled, "Challing Windows APIs from Visual Basic." PC Magazine, Volume 17, Number 16.
+
+
+Changrez.frm is the Visual Basic form file for the Change Resolution program, which shows how to access the Windows API function ChangeDisplaySettings from a Visual Basic program.
+
+Changrez.vbp is the Visual Basic project file for the Change Resolution program, which shows how to access the Windows API function ChangeDisplaySettings from a Visual Basic program.
